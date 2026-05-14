@@ -93,14 +93,14 @@ GROUPNAME_SDG4_SAD
 
 # 👨‍💻 Contributors
 
-| Team Member | Assigned Module |
-|-------------|----------------|
-| Santiago, Pierre Leoj A. | Documentation & Analysis |
-| Tusi, Orlando L. | Backend Development |
-| Endaya, Mark John M. | Database Design |
-| Cometa, Gregg Martin D. | UI/UX Design |
-| Mamayson, John Michael V. | Testing & Validation |
-| Sastre, John Angelo E. | Frontend Development |
+| Team Member | 
+|-------------|
+| Santiago, Pierre Leoj A. | 
+| Tusi, Orlando L. | 
+| Endaya, Mark John M. |
+| Cometa, Gregg Martin D. | 
+| Mamayson, John Michael V. |
+| Sastre, John Angelo E. | 
 
 ---
 
